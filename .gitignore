@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Test.Data/obj
+/Test.Data/bin/Debug/net6.0
+/Test.Entities/bin/Debug/net6.0
+/Test.Entities/obj
+/Test.Web.Api/bin/Debug/net6.0
+/Test.Web.Api/obj
